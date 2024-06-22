@@ -4,7 +4,7 @@ Build step:
 
 1.gen rtl :
 
-Run Catapult to generate the concat_rtl.v(we named it concat_rtl_less_lat.v) from catapult.h and tb.c
+Run Catapult to generate the concat_rtl.v(we named it concat_rtl_less_lat.v) from catapult.h and tb.c (aes_enc)
 
 2.integrate fsic and fpga sim:
 
